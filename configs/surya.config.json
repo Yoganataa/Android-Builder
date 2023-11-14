@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Mi6X",
-      "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_wayne",
-      "branch": "TDA",
-      "device": "wayne",
-      "defconfig": "vendor/wayne_defconfig"
+      "name": "SuryaX3",
+      "repo": "https://github.com/kimsultech/android_kernel_xiaomi_surya",
+      "branch": "13.0",
+      "device": "surya",
+      "defconfig": "surya_defconfig"
     },
     "toolchains": [
       {
